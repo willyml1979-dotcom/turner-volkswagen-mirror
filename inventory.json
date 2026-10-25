@@ -1,10 +1,16 @@
 {
   "dealership": "Turner Volkswagen",
-  "generated_at": "2026-10-25T14:58:10",
-  "vehicle_count": 115,
+  "generated_at": "2026-10-25T15:48:41",
+  "vehicle_count": 116,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New Volkswagen Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BN2CA1TC547497",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/436998bc90f5.html",
+      "condition": "new"
+    },
     {
       "name": "2013 Volkswagen Beetle Convertible Comfortline",
       "vin": "3VW5X7AT3DM808118",
@@ -366,15 +372,6 @@
       "condition": "used"
     },
     {
-      "name": "2025 Volkswagen ID. Buzz 1st Edition 4MOTION",
-      "vin": "WVG6YVEB5SH030945",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/eb2dadc8ae4f.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "ID. Buzz",
-      "condition": "new"
-    },
-    {
       "name": "2026 Volkswagen Atlas Cross Sport Execline",
       "vin": "1V2FC2CA6TC221203",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/3e5641e97ec9.html",
@@ -645,15 +642,6 @@
       "condition": "new"
     },
     {
-      "name": "2026 Volkswagen Atlas Highline",
-      "vin": "1V2BN2CA6TC545597",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/a8051ce709c9.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new"
-    },
-    {
       "name": "2026 Volkswagen Atlas Execline",
       "vin": "1V2FN2CA5TC549237",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/0dfdd614990c.html",
@@ -756,15 +744,6 @@
       "name": "2026 Volkswagen Jetta Comfortline",
       "vin": "3VWSW7BU5TM051153",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/7628ff9318d5.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Comfortline",
-      "vin": "3VWSW7BU6TM054384",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/436998bc90f5.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
@@ -924,6 +903,15 @@
       "condition": "new"
     },
     {
+      "name": "2027 Volkswagen Atlas Execline",
+      "vin": "1V2F53DH0VC502900",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/a008c21b1732.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "new"
+    },
+    {
       "name": "2027 Volkswagen Jetta GLI GLI",
       "vin": "3VW2M7BU2VM007524",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/76176b478447.html",
@@ -954,6 +942,15 @@
       "name": "2027 Volkswagen Taos Trendline 4MOTION",
       "vin": "3VV8D7B26VM008852",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/f434715b71d6.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Volkswagen Taos Highline 4MOTION",
+      "vin": "3VV4D7B2XVM024843",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/b689f16e2eb2.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
@@ -1035,6 +1032,15 @@
       "name": "2027 Volkswagen Tiguan Highline Turbo R-Line 4MOTION",
       "vin": "3VVUW7RM6VM007460",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/31f4e30d0af4.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Volkswagen Tiguan Highline Turbo R-Line 4MOTION",
+      "vin": "3VVUW7RM2VM008900",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/b6dc9a04aa8e.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Tiguan",
