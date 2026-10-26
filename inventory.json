@@ -1,7 +1,7 @@
 {
   "dealership": "Turner Volkswagen",
-  "generated_at": "2026-10-25T15:48:41",
-  "vehicle_count": 116,
+  "generated_at": "2026-10-26T00:40:35",
+  "vehicle_count": 114,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -174,15 +174,6 @@
       "condition": "used"
     },
     {
-      "name": "2022 Ford Bronco Base",
-      "vin": "1FMDE5AH2NLB26902",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/5fe7f868b9c3.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used"
-    },
-    {
       "name": "2022 Volkswagen Tiguan Comfortline R-Line Black Edition",
       "vin": "3VV8B7AX2NM097709",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/708ac05b8a3c.html",
@@ -225,15 +216,6 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Volkswagen Atlas Comfortline",
-      "vin": "1V2LR2CA6RC503531",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/3691a6be2aa5.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Atlas",
       "condition": "used"
     },
     {
