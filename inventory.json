@@ -1,16 +1,10 @@
 {
   "dealership": "Turner Volkswagen",
-  "generated_at": "2026-10-26T00:40:35",
-  "vehicle_count": 114,
+  "generated_at": "2026-10-26T01:19:45",
+  "vehicle_count": 113,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "New Volkswagen Inventoryat Turner Volkswagen in Kelowna",
-      "vin": "1V2BN2CA1TC547497",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/436998bc90f5.html",
-      "condition": "new"
-    },
     {
       "name": "2013 Volkswagen Beetle Convertible Comfortline",
       "vin": "3VW5X7AT3DM808118",
