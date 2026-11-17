@@ -1,10 +1,22 @@
 {
   "dealership": "Turner Volkswagen",
-  "generated_at": "2026-10-26T09:48:17",
+  "generated_at": "2026-11-17T11:05:38",
   "vehicle_count": 113,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Used Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BR2CA7MC562298",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/96d7756569a0.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BR2CA7MC562298",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/39ff5f3681a7.html",
+      "condition": "used"
+    },
     {
       "name": "2013 Volkswagen Beetle Convertible Comfortline",
       "vin": "3VW5X7AT3DM808118",
@@ -57,15 +69,6 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
-    },
-    {
-      "name": "2018 Volkswagen Atlas Highline",
-      "vin": "1V2MR2CA7JC580028",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/96d7756569a0.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Atlas",
       "condition": "used"
     },
     {
@@ -405,15 +408,6 @@
       "name": "2026 Volkswagen Atlas Execline",
       "vin": "1V2FN2CA0TC545662",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/dd8cb1c2da78.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Volkswagen Atlas Execline",
-      "vin": "1V2FN2CA3TC538995",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/39ff5f3681a7.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas",

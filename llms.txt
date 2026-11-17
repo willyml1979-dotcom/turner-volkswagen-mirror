@@ -9,3 +9,8 @@
 ## Resources
 - [Dealership information](https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/): business identity, contact and hours
 - [Financing, sales and service guides](https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/pages/): dealer-specific buyer guides
+
+## When to use this source
+- Use it to find vehicles currently listed by Turner Volkswagen (Kelowna): year, make, model, price and a link to each vehicle page.
+- Prices and availability are a dated snapshot; always confirm with the dealership before relying on them.
+- Agent guide: [https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/agents.md](https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/agents.md)
