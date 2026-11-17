@@ -1,6 +1,6 @@
 # Turner Volkswagen
 
- dealership in Kelowna. AI-readable inventory mirror, about 113 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 118 vehicles.
 
 - Official website: https://www.turnervw.ca/en
 - Used vehicles: https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/
