@@ -1,7 +1,7 @@
 {
   "dealership": "Turner Volkswagen",
-  "generated_at": "2026-11-18T11:09:52",
-  "vehicle_count": 118,
+  "generated_at": "2026-11-18T12:45:39",
+  "vehicle_count": 119,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -38,6 +38,12 @@
     {
       "name": "New Volkswagen Inventoryat Turner Volkswagen in Kelowna",
       "vin": "1V2BN2CA1TC547497",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/0c8c7c291b11.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BN2CA1TC547497",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/0dfdd614990c.html",
       "condition": "new"
     },
@@ -56,6 +62,24 @@
     {
       "name": "New Volkswagen Inventoryat Turner Volkswagen in Kelowna",
       "vin": "1V2BN2CA1TC547497",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/02fac5ec171e.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BN2CA1TC547497",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/e2df0161fa3c.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BN2CA1TC547497",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/567a41834fa3.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BN2CA1TC547497",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/89715fc9ab87.html",
       "condition": "new"
     },
@@ -63,6 +87,18 @@
       "name": "New Volkswagen Inventoryat Turner Volkswagen in Kelowna",
       "vin": "1V2BN2CA1TC547497",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/394548a5f88f.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BN2CA1TC547497",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/bb4985609950.html",
+      "condition": "new"
+    },
+    {
+      "name": "New Volkswagen Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BN2CA1TC547497",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/6cbec97677f3.html",
       "condition": "new"
     },
     {
@@ -615,15 +651,6 @@
       "condition": "new"
     },
     {
-      "name": "2026 Volkswagen Atlas Cross Sport Execline",
-      "vin": "1V2FC2CA4TC238081",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/0c8c7c291b11.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "new"
-    },
-    {
       "name": "2026 Volkswagen Atlas Highline",
       "vin": "1V2BN2CA1TC547497",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/6c84703eaedf.html",
@@ -645,15 +672,6 @@
       "name": "2026 Volkswagen Atlas Highline",
       "vin": "1V2BN2CA7TC560660",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/b8af678d2896.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Atlas Execline",
-      "vin": "1V2FN2CA6TC560103",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/02fac5ec171e.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas",
@@ -741,27 +759,9 @@
       "condition": "new"
     },
     {
-      "name": "2026 Volkswagen Tiguan Trendline 4MOTION",
-      "vin": "3VVBR7RM8TM092023",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/bb4985609950.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new"
-    },
-    {
       "name": "2026 Volkswagen Tiguan Comfortline 4MOTION",
       "vin": "3VVER7RM5TM092834",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/0b5beb0afd97.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Trendline 4MOTION",
-      "vin": "3VVBR7RM3TM093998",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/6cbec97677f3.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
@@ -840,24 +840,6 @@
       "condition": "new"
     },
     {
-      "name": "2027 Volkswagen Atlas Execline",
-      "vin": "1V2F53DH1VC501027",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/e2df0161fa3c.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Volkswagen Atlas Execline",
-      "vin": "1V2F53DH2VC500999",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/567a41834fa3.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new"
-    },
-    {
       "name": "2027 Volkswagen Atlas Highline",
       "vin": "1V2D53DH8VC502800",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/0d622dec5536.html",
@@ -906,6 +888,15 @@
       "name": "2027 Volkswagen Jetta Comfortline",
       "vin": "3VWSW7BU8VM014407",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/e071b63491b0.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Volkswagen Jetta Comfortline",
+      "vin": "3VWEW7BU6VM018436",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/new/9b9a62b80130.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
