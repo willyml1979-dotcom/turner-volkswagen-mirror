@@ -1,6 +1,6 @@
 {
   "dealership": "Turner Volkswagen",
-  "generated_at": "2026-11-17T12:40:18",
+  "generated_at": "2026-11-18T11:09:52",
   "vehicle_count": 118,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -14,7 +14,25 @@
     {
       "name": "Used Inventoryat Turner Volkswagen in Kelowna",
       "vin": "1V2BR2CA7MC562298",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/8ccc0e84269f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BR2CA7MC562298",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/39ff5f3681a7.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BR2CA7MC562298",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/9292047a1c60.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Turner Volkswagen in Kelowna",
+      "vin": "1V2BR2CA7MC562298",
+      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/b455cc32bda3.html",
       "condition": "used"
     },
     {
@@ -117,15 +135,6 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
-    },
-    {
-      "name": "2019 Volkswagen Atlas Highline",
-      "vin": "1V2RR2CA2KC576136",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/8ccc0e84269f.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Atlas",
       "condition": "used"
     },
     {
@@ -261,15 +270,6 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan Comfortline R-Line Black Edition",
-      "vin": "3VV8B7AX2RM146381",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/b455cc32bda3.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
       "condition": "used"
     },
     {
@@ -471,7 +471,7 @@
       "condition": "used"
     },
     {
-      "name": "2026 Volkswagen Jetta Highline",
+      "name": "2026 Volkswagen Jetta Ex-Demo Low KMs!",
       "vin": "3VWGW7BU8TM031646",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/534b1f076c1e.html",
       "year": 2026,
@@ -510,15 +510,6 @@
       "name": "2026 Volkswagen Taos Comfortline Black Edition",
       "vin": "3VV2C7B26TM029450",
       "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/5e62189776ed.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Volkswagen Taos Highline",
-      "vin": "3VV4C7B2XTM004429",
-      "url": "https://willyml1979-dotcom.github.io/turner-volkswagen-mirror/used/9292047a1c60.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
